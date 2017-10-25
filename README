@@ -1,3 +1,14 @@
+***
+
+Clone of meta-qt5 repository
+
+To get the original:
+git clone -b morty https://github.com/meta-qt5/meta-qt5.git
+
+***
+
+
+
 This layer depends on:
 
 URI: git://github.com/openembedded/oe-core.git
